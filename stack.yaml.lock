@@ -7,20 +7,62 @@ packages:
 - completed:
     hackage: monadIO-0.10.1.4@sha256:2dc105440a2d21e0b46cb7d9811b22367cbf66fab39c0149ecc24d982166e48c,922
     pantry-tree:
-      size: 443
       sha256: 64b40a4cd0033d4dcae1a49b7f79d57ab83dc923636fd3c2904df28de7df0b93
+      size: 443
   original:
     hackage: monadIO-0.10.1.4
 - completed:
     hackage: rolling-queue-0.1@sha256:9283b4267a60f98652ec69d24dda6028e164c37c84e4ee8519379a02dc3876aa,1676
     pantry-tree:
-      size: 346
       sha256: cc20fe716b5edb1ec8758d021a52e5bcb940d36a313b62c6ab51ab8d40e20b20
+      size: 346
   original:
     hackage: rolling-queue-0.1
+- completed:
+    hackage: connection-0.3.1@sha256:3dcbf2f10d1677d339267d6dacb38a24913622edf42b05f75a73f381610ddbfc,1563
+    pantry-tree:
+      sha256: ddf462f50f0fc53404c6dead419c7241faf26da0e67c32accd0d9dc0d6e4da87
+      size: 386
+  original:
+    hackage: connection-0.3.1@sha256:3dcbf2f10d1677d339267d6dacb38a24913622edf42b05f75a73f381610ddbfc,1563
+- completed:
+    hackage: tls-1.6.0@sha256:7ae39373fd2de27fb80e90f76d22aeeb9a074a0ddd120cbd02c9c52f516a9e55,6987
+    pantry-tree:
+      sha256: a64b0c6cdfc37b48ebb7c0e30fe23a0e1a172baf3819ff6d0ca281ae4a56041a
+      size: 4897
+  original:
+    hackage: tls-1.6.0@sha256:7ae39373fd2de27fb80e90f76d22aeeb9a074a0ddd120cbd02c9c52f516a9e55,6987
+- completed:
+    hackage: x509-1.7.7@sha256:90eef2d745a654146fc1c325e035eaddac531e4d2145d4bc1dcf4b8fad439d34,2276
+    pantry-tree:
+      sha256: d81ffd09633c0417bcedbfc29f870cc843ec0750edd2f73c8fd60a5e5df278d2
+      size: 1124
+  original:
+    hackage: x509-1.7.7@sha256:90eef2d745a654146fc1c325e035eaddac531e4d2145d4bc1dcf4b8fad439d34,2276
+- completed:
+    hackage: x509-store-1.6.9@sha256:1f1abeab5bacf1407b920d0f34f4c35a5ad450ff0d8121cd3dc76460f81e711d,1716
+    pantry-tree:
+      sha256: 9fc5a6a997af3569c79d5062534cc9836721b39df86bef56308f209164ab500d
+      size: 398
+  original:
+    hackage: x509-store-1.6.9@sha256:1f1abeab5bacf1407b920d0f34f4c35a5ad450ff0d8121cd3dc76460f81e711d,1716
+- completed:
+    hackage: x509-system-1.6.7@sha256:45ddd5db19f18be80614e058e8838765f2749a8afcfd2b292bd6afb36820a3c0,1492
+    pantry-tree:
+      sha256: bc736fef360079192c471d5cf122f696442f29e5332aaa45f1d8571f50a4210e
+      size: 391
+  original:
+    hackage: x509-system-1.6.7@sha256:45ddd5db19f18be80614e058e8838765f2749a8afcfd2b292bd6afb36820a3c0,1492
+- completed:
+    hackage: x509-validation-1.6.12@sha256:4f4af20ec77f02c042ecd4726c195bb0e0b694b336de81e7bd4515b2917bd9bc,2169
+    pantry-tree:
+      sha256: f95c21aa9671b10f9384b89c018874246f68220b63266172b47a747b62695e23
+      size: 631
+  original:
+    hackage: x509-validation-1.6.12@sha256:4f4af20ec77f02c042ecd4726c195bb0e0b694b336de81e7bd4515b2917bd9bc,2169
 snapshots:
 - completed:
-    size: 586069
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/18/14.yaml
-    sha256: 87842ecbaa8ca9cee59a7e6be52369dbed82ed075cb4e0d152614a627e8fd488
-  original: lts-18.14
+    sha256: b63fde5242c7a5d20e9c8070190038c5589424dabb8f8c7f02ec4b2be743ad23
+    size: 726276
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/24/7.yaml
+  original: lts-24.7
